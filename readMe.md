@@ -1,1 +1,1 @@
-Interface desenvolvida usando HTML, CSS, e javaScrpit para dar vida a uma simulação de comprar relógio da Apple.
+Interface desenvolvida usando HTML, CSS, e javaScript para dar vida a uma simulação de comprar relógio da Apple.
